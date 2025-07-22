@@ -67,7 +67,7 @@ This website is designed for individuals who are passionate about maintaining a 
 
 ## Contact
 
-Vladislav Lychak - [@LinkedIn](https://www.linkedin.com/in/vladislav-lychak/) - lycakvladislav@gmail.com
+Vladislav Lychak - [@LinkedIn](https://www.linkedin.com/in/vlad-lychak/) - lycakvladislav@gmail.com
 
 Project Link: [https://my-food-blog-two.vercel.app/](https://my-food-blog-two.vercel.app/)
 
